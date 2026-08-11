@@ -1,0 +1,92 @@
+{
+  "cabai_rawit": {
+    "display_name": "Cabai Rawit",
+    "temperature": { "min": 25.5, "max": 29.5, "unit": "°C" },
+    "humidity": { "min": 66.5, "max": 76.0, "unit": "%" },
+    "ph": { "min": 5.5, "max": 6.8, "unit": "" }
+  },
+  "cabai_keriting": {
+    "display_name": "Cabai Keriting",
+    "temperature": { "min": 25.5, "max": 29.7, "unit": "°C" },
+    "humidity": { "min": 66.2, "max": 76.3, "unit": "%" },
+    "ph": { "min": 5.5, "max": 6.8, "unit": "" }
+  },
+  "tomat": {
+    "display_name": "Tomat",
+    "temperature": { "min": 23.0, "max": 27.2, "unit": "°C" },
+    "humidity": { "min": 66.8, "max": 76.0, "unit": "%" },
+    "ph": { "min": 5.6, "max": 6.8, "unit": "" }
+  },
+  "bayam": {
+    "display_name": "Bayam",
+    "temperature": { "min": 21.0, "max": 25.2, "unit": "°C" },
+    "humidity": { "min": 72.8, "max": 82.0, "unit": "%" },
+    "ph": { "min": 6.0, "max": 7.0, "unit": "" }
+  },
+  "kangkung": {
+    "display_name": "Kangkung",
+    "temperature": { "min": 21.0, "max": 25.8, "unit": "°C" },
+    "humidity": { "min": 71.0, "max": 81.6, "unit": "%" },
+    "ph": { "min": 5.6, "max": 6.7, "unit": "" }
+  },
+  "selada": {
+    "display_name": "Selada",
+    "temperature": { "min": 19.0, "max": 23.2, "unit": "°C" },
+    "humidity": { "min": 72.8, "max": 82.0, "unit": "%" },
+    "ph": { "min": 6.0, "max": 7.0, "unit": "" }
+  },
+  "terong": {
+    "display_name": "Terong",
+    "temperature": { "min": 25.0, "max": 29.0, "unit": "°C" },
+    "humidity": { "min": 61.5, "max": 72.5, "unit": "%" },
+    "ph": { "min": 5.6, "max": 6.8, "unit": "" }
+  },
+  "timun": {
+    "display_name": "Timun",
+    "temperature": { "min": 24.0, "max": 28.0, "unit": "°C" },
+    "humidity": { "min": 66.8, "max": 76.5, "unit": "%" },
+    "ph": { "min": 5.7, "max": 6.8, "unit": "" }
+  },
+  "bawang_merah": {
+    "display_name": "Bawang Merah",
+    "temperature": { "min": 23.0, "max": 27.0, "unit": "°C" },
+    "humidity": { "min": 65.8, "max": 74.5, "unit": "%" },
+    "ph": { "min": 5.6, "max": 6.8, "unit": "" }
+  },
+  "bawang_putih": {
+    "display_name": "Bawang Putih",
+    "temperature": { "min": 20.8, "max": 25.0, "unit": "°C" },
+    "humidity": { "min": 64.8, "max": 73.5, "unit": "%" },
+    "ph": { "min": 5.7, "max": 7.2, "unit": "" }
+  },
+  "sawi": {
+    "display_name": "Sawi",
+    "temperature": { "min": 25.0, "max": 29.0, "unit": "°C" },
+    "humidity": { "min": 68.5, "max": 79.5, "unit": "%" },
+    "ph": { "min": 5.6, "max": 6.8, "unit": "" }
+  },
+  "kacang_panjang": {
+    "display_name": "Kacang Panjang",
+    "temperature": { "min": 26.0, "max": 30.0, "unit": "°C" },
+    "humidity": { "min": 65.8, "max": 75.5, "unit": "%" },
+    "ph": { "min": 5.7, "max": 6.8, "unit": "" }
+  },
+  "seledri": {
+    "display_name": "Seledri",
+    "temperature": { "min": 24.0, "max": 28.0, "unit": "°C" },
+    "humidity": { "min": 66.8, "max": 76.0, "unit": "%" },
+    "ph": { "min": 5.7, "max": 7.0, "unit": "" }
+  },
+  "pare": {
+    "display_name": "Pare",
+    "temperature": { "min": 24.0, "max": 28.0, "unit": "°C" },
+    "humidity": { "min": 66.2, "max": 76.5, "unit": "%" },
+    "ph": { "min": 5.7, "max": 6.8, "unit": "" }
+  },
+  "kemangi": {
+    "display_name": "Kemangi",
+    "temperature": { "min": 25.0, "max": 29.2, "unit": "°C" },
+    "humidity": { "min": 66.8, "max": 77.0, "unit": "%" },
+    "ph": { "min": 5.6, "max": 6.8, "unit": "" }
+  }
+}

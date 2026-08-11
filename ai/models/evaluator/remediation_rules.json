@@ -1,0 +1,38 @@
+{
+  "ph": {
+    "too_low": {
+      "condition": "Terlalu asam",
+      "suggestion": "Taburkan kapur dolomit (100-150 gram per m²) untuk menaikkan pH tanah secara bertahap.",
+      "detail": "pH tanah yang terlalu rendah membuat tanaman sulit menyerap nutrisi penting seperti nitrogen dan fosfor."
+    },
+    "too_high": {
+      "condition": "Terlalu basa",
+      "suggestion": "Tambahkan pupuk kompos atau belerang pertanian untuk menurunkan pH tanah.",
+      "detail": "pH tanah yang terlalu tinggi dapat mengunci mineral penting seperti zat besi dan mangan."
+    }
+  },
+  "humidity": {
+    "too_low": {
+      "condition": "Terlalu kering",
+      "suggestion": "Siram tanah lebih sering (pagi dan sore) dan tambahkan mulsa organik untuk menjaga kelembapan.",
+      "detail": "Tanah yang terlalu kering membuat akar stres dan tanaman layu karena tidak bisa menyerap air."
+    },
+    "too_high": {
+      "condition": "Terlalu basah",
+      "suggestion": "Perbaiki drainase pot/lahan, kurangi frekuensi penyiraman, dan pastikan ada lubang pembuangan di pot.",
+      "detail": "Kelembapan berlebih dapat menyebabkan busuk akar dan pertumbuhan jamur yang merusak tanaman."
+    }
+  },
+  "temperature": {
+    "too_low": {
+      "condition": "Terlalu dingin",
+      "suggestion": "Pindahkan pot ke area yang lebih terkena sinar matahari atau gunakan mulsa hitam untuk menyerap panas.",
+      "detail": "Suhu tanah yang terlalu rendah memperlambat aktivitas mikroba dan penyerapan nutrisi oleh akar."
+    },
+    "too_high": {
+      "condition": "Terlalu panas",
+      "suggestion": "Tambahkan naungan (paranet 50%), mulsa tebal, atau pindahkan pot ke area teduh saat siang.",
+      "detail": "Suhu berlebih mempercepat penguapan air tanah dan bisa membakar akar tanaman."
+    }
+  }
+}
